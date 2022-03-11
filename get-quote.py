@@ -1,5 +1,5 @@
-#
-def main():
+#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
+def funkcija():
   print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -9,4 +9,4 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-  main()
+  funkcija()
